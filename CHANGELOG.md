@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.5.45] - 09/23/2025
+
+### Features
+* (**cleanrooms**) Added support for running incremental ID mapping for rule-based workflows.
+* (**ec2**) Add Amazon EC2 R8gn instance types
+* (**entityresolution**) Support incremental id mapping workflow for AWS Entity Resolution
+* (**ssm**) Added Dualstack support to GetDeployablePatchSnapshotForInstance
+* (**ssoadmin**) Add support for encryption at rest with Customer Managed KMS Key in AWS IAM Identity Center
+* (**ssooidc**) This release includes exception definition and documentation updates.
+
+### Miscellaneous
+* Upgrade to Gradle 9.0.0
+
 ## [1.5.44] - 09/22/2025
 
 ### Features
