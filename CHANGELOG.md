@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.5.46] - 09/24/2025
+
+### Features
+* (**cloudwatch**) Fix default dualstack FIPS endpoints in AWS GovCloud(US) regions
+* (**dax**) This release adds support for IPv6-only, DUAL_STACK DAX instances
+
+### Documentation
+* (**appstream**) G6f instance support for AppStream 2.0
+* (**kms**) Documentation only updates for KMS.
+* (**neptune**) Doc-only update to address customer use.
+
 ## [1.5.45] - 09/23/2025
 
 ### Features
