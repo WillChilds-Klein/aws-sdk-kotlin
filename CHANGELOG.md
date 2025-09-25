@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.47] - 09/25/2025
+
+### Features
+* (**glue**) Update GetConnection(s) API to return KmsKeyArn & Add 63 missing connection types
+* (**lightsail**) Attribute HTTP binding update for Get/Delete operations
+* (**networkfirewall**) Network Firewall now introduces Reject and Alert action support for stateful domain list rule groups, providing customers with more granular control over their network traffic.
+
 ## [1.5.46] - 09/24/2025
 
 ### Features
