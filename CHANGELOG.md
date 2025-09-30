@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.5.51] - 09/30/2025
+
+### Features
+* (**applicationsignals**) Amazon CloudWatch Application Signals is introducing the Application Map to give users a more comprehensive view of their service health. Users will now be able to group services, track their latest deployments, and view automated audit findings concerning service performance.
+* (**bedrockagentcorecontrol**) Tagging support for AgentCore Gateway
+* (**chimesdkvoice**) Added support for IPv4-only and dual-stack network configurations for VoiceConnector and CreateVoiceConnector API.
+* (**connectcases**) This release adds support for two new related item types: ConnectCase for linking Amazon Connect cases and Custom for user-defined related items with configurable fields.
+* (**customerprofiles**) This release introduces ListProfileHistoryRecords and GetProfileHistoryRecord APIs for comprehensive profile history tracking with complete audit trails of creation, updates, merges, deletions, and data ingestion events.
+* (**datasync**) Added support for FIPS VPC endpoints in FIPS-enabled AWS Regions.
+* (**datazone**) This release adds support for creation of EMR on EKS Connections in Amazon DataZone.
+* (**directoryservice**) AWS Directory service now supports IPv6-native and dual-stack configurations for AWS Managed Microsoft AD, AD Connector, and Simple AD (dual-stack only). Additionally, AWS Managed Microsoft AD Standard Edition directories can be upgraded to Enterprise Edition directories through a single API call.
+* (**ecs**) This release adds support for Managed Instances on Amazon ECS.
+* (**fsx**) Add Dual-Stack support for Amazon FSx for NetApp ONTAP and Windows File Server
+* (**mediatailor**) Adding TPS Traffic Shaping to Prefetch Schedules
+* (**rds**) Enhanced RDS error handling: Added DBProxyEndpointNotFoundFault, DBShardGroupNotFoundFault, KMSKeyNotAccessibleFault for snapshots/restores/backups, NetworkTypeNotSupported, StorageTypeNotSupportedFault for restores, and granular state validation faults. Changed DBInstanceNotReadyFault to HTTP 400.
+* (**transfer**) Add support for updating server identity provider type
+
+### Documentation
+* (**quicksight**) added warnings to a few CLI pages
+
 ## [1.5.50] - 09/29/2025
 
 ### Features
