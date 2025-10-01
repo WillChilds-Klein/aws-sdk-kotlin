@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.5.52] - 10/01/2025
+
+### Features
+* (**chimesdkmeetings**) Add support to receive dual stack MediaPlacement URLs in Chime Meetings SDK
+* (**cleanrooms**) This release introduces data access budgets to control how many times a table can be used for queries and jobs in a collaboration.
+* (**cleanroomsml**) This release introduces data access budgets to view how many times an input channel can be used for ML jobs in a collaboration.
+* (**ivsrealtime**) Remove incorrect ReadOnly trait on IVS RealTime ImportPublicKey API
+* (**pcs**) Added the UpdateCluster API action to modify cluster configurations, and Slurm custom settings for queues.
+
+### Documentation
+* (**databasemigrationservice**) This is a doc-only update, revising text for kms-key-arns.
+* (**ecs**) This is a documentation only Amazon ECS release that adds additional information for health checks.
+
 ## [1.5.51] - 09/30/2025
 
 ### Features
