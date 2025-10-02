@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.5.53] - 10/02/2025
+
+### Features
+* (**cloudformation**) Add new warning type 'EXCLUDED_RESOURCES'
+* (**connectcases**) New Search All Related Items API enables searching related items across cases
+* (**dynamodb**) Add support for dual-stack account endpoint generation
+* (**synthetics**) Adds support to configure canaries with pre-configured blueprint code on supported runtime versions.  This behavior can be controlled via the new BlueprintTypes property exposed in the CreateCanary and UpdateCanary APIs.
+
+### Documentation
+* (**guardduty**) Updated descriptions for the Location parameter in CreateTrustedEntitySet and CreateThreatEntitySet.
+
 ## [1.5.52] - 10/01/2025
 
 ### Features
