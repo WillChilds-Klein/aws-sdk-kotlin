@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.54] - 10/03/2025
+
+### Features
+* (**cleanrooms**) Added support for reading data sources across regions, and results delivery to allowedlisted regions.
+* (**medialive**) AWS Elemental MediaLive enables Mediapackage V2 users to configure ID3, KLV, Nielsen ID3, and Segment Length related parameters through the Mediapackage output group.
+* (**paymentcryptographydata**) Added a new API - translateKeyMaterial; allows keys wrapped by ECDH derived keys to be rewrapped under a static AES keyblock without first importing the key into the service.
+* (**qconnect**) Updated Amazon Q in Connect APIs to support Email Contact Recommendations.
+
 ## [1.5.53] - 10/02/2025
 
 ### Features
