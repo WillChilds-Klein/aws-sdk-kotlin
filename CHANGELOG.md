@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.5.56] - 10/07/2025
+
+### Features
+* (**proton**) Deprecating APIs in AWS Proton namespace.
+
 ## [1.5.55] - 10/06/2025
 
 ### Features
