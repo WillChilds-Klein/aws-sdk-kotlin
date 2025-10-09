@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.5.58] - 10/09/2025
+
+### Features
+* (**quicksight**) This release adds support for ActionConnector and Flow, which are new resources associated with Amazon Quick Suite. Additional updates include expanded Data Source options, further branding customization, and new capabilities that can be restricted by Admins.
+* (**wafv2**) This release adds the ability to throw WafLimitsExceededException when the maximum number of Application Load Balancer (ALB) associations per AWS WAF v2 WebACL is exceeded.
+
 ## [1.5.57] - 10/08/2025
 
 ### Features
