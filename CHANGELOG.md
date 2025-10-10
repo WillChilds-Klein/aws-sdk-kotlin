@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.5.59] - 10/10/2025
+
+### Features
+* (**bedrockagentcore**) Bedrock AgentCore release for Runtime, and Memory.
+* (**bedrockagentcorecontrol**) Bedrock AgentCore release for Gateway, and Memory including Self-Managed Strategies support for Memory.
+* (**cloudfront**) Added new viewer security policy, TLSv1.2_2025, for CloudFront.
+* (**glue**) Addition of AuditContext in GetTable/GetTables Request
+* (**lambda**) Add InvokedViaFunctionUrl context key to limit invocations to only FURL invokes.
+* (**odb**) This release adds APIs that allow you to specify CIDR ranges in your ODB peering connection.
+
+### Documentation
+* (**rds**) Updated the text in the Important section of the ModifyDBClusterParameterGroup page.
+
 ## [1.5.58] - 10/09/2025
 
 ### Features
