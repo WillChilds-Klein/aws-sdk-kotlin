@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.5.61] - 10/14/2025
+
+### Features
+* (**appstream**) This release introduces support for Microsoft license included applications streaming.
+* (**backup**) The AWS Backup job attribute extension enhancement helps customers better understand the plan that initiated each job, and the properties of the resource each job creates.
+* (**connect**) SDK release for TaskTemplateInfo in Contact for DescribeContact response.
+* (**datazone**) Support creating scoped and trustedIdentityPropagation enabled connections.
+* (**ec2**) This release adds support for creating instant, point-in-time copies of EBS volumes within the same Availability Zone
+* (**transcribe**) Move UntagResource API body member to query parameter
+* (**transfer**) SFTP connectors now support routing connections via customers' VPC. This enables connections to remote servers that are only accessible in a customer's VPC environment, and to servers that are accessible over the internet but need connections coming from an IP address in a customer VPC's CIDR range.
+
 ## [1.5.60] - 10/13/2025
 
 ### Features
