@@ -1,5 +1,59 @@
 # Changelog
 
+## [1.5.63] - 10/16/2025
+
+### Features
+* (**acmpca**) Update endpoint ruleset parameters casing
+* (**amplify**) Update endpoint ruleset parameters casing
+* (**apigatewaymanagementapi**) Update endpoint ruleset parameters casing
+* (**apprunner**) Update endpoint ruleset parameters casing
+* (**apptest**) Update endpoint ruleset parameters casing
+* (**autoscalingplans**) Updated FIPS endpoints for US GovCloud regions
+* (**batch**) Update endpoint ruleset parameters casing
+* (**bcmdataexports**) Update endpoint ruleset parameters casing
+* (**billingconductor**) New feature: service flat CLI and first AWS managed pricing plan (BasicPricingPlan)
+* (**customerprofiles**) Update endpoint ruleset parameters casing
+* (**databrew**) Update endpoint ruleset parameters casing
+* (**dataexchange**) Update endpoint ruleset parameters casing
+* (**dlm**) Update endpoint ruleset parameters casing
+* (**freetier**) Update endpoint ruleset parameters casing
+* (**gamelift**) Update endpoint ruleset parameters casing
+* (**georoutes**) Update endpoint ruleset parameters casing
+* (**globalaccelerator**) Update endpoint ruleset parameters casing
+* (**grafana**) Update endpoint ruleset parameters casing
+* (**identitystore**) Update endpoint ruleset parameters casing
+* (**ivs**) Update endpoint ruleset parameters casing
+* (**ivsrealtime**) Update endpoint ruleset parameters casing
+* (**kafka**) Update endpoint ruleset parameters casing
+* (**keyspaces**) Update endpoint ruleset parameters casing
+* (**kms**) Update endpoint ruleset parameters casing
+* (**lexmodelbuildingservice**) Update endpoint ruleset parameters casing
+* (**lexruntimev2**) Update endpoint ruleset parameters casing
+* (**lookoutequipment**) Update endpoint ruleset parameters casing
+* (**m2**) Update endpoint ruleset parameters casing
+* (**machinelearning**) Update endpoint ruleset parameters casing
+* (**marketplaceentitlementservice**) Update endpoint ruleset parameters casing
+* (**mediapackagev2**) Update endpoint ruleset parameters casing
+* (**medicalimaging**) Update endpoint ruleset parameters casing
+* (**memorydb**) Update endpoint ruleset parameters casing
+* (**migrationhubconfig**) Update endpoint ruleset parameters casing
+* (**networkflowmonitor**) Update endpoint ruleset parameters casing
+* (**osis**) Update endpoint ruleset parameters casing
+* (**personalize**) Update endpoint ruleset parameters casing
+* (**personalizeruntime**) Update endpoint ruleset parameters casing
+* (**pinpointsmsvoice**) Update endpoint ruleset parameters casing
+* (**polly**) Update endpoint ruleset parameters casing
+* (**pricing**) Update endpoint ruleset parameters casing
+* (**qldb**) Update endpoint ruleset parameters casing
+* (**qldbsession**) Update endpoint ruleset parameters casing
+* (**route53recoverycontrolconfig**) Update endpoint ruleset parameters casing
+* (**ssm**) Update endpoint ruleset parameters casing
+* (**ssmcontacts**) Update endpoint ruleset parameters casing
+* (**ssmguiconnect**) Update endpoint ruleset parameters casing
+* (**timestreamquery**) Update endpoint ruleset parameters casing
+* (**voiceid**) Update endpoint ruleset parameters casing
+* (**workspacesweb**) Update endpoint ruleset parameters casing
+
 ## [1.5.62] - 10/15/2025
 
 ### Features
