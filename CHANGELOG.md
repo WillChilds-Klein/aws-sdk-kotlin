@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.65] - 10/21/2025
+
+### Features
+* (**dynamodb**) Add AccountID based endpoint metric to endpoint rules.
+* (**emr**) Added RECONFIGURING to the InstanceFleetState convenience enum.
+* (**marketplacemetering**) Added ClientToken parameter to MeterUsage API for specifying idempotent requests.
+* (**mediaconvert**) This release adds the ability to set resolution for the black video generator and also adds the StartJobsQuery and GetJobsQueryResults APIs which allow asynchronous search of job history using new filters.
+
 ## [1.5.64] - 10/17/2025
 
 ### Features
