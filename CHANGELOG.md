@@ -1,5 +1,58 @@
 # Changelog
 
+## [1.5.66] - 10/22/2025
+
+### Features
+* (**appfabric**) Update endpoint ruleset parameters casing
+* (**autoscaling**) Update endpoint ruleset parameters casing
+* (**b2bi**) Update endpoint ruleset parameters casing
+* (**bcmdashboards**) Update endpoint ruleset parameters casing
+* (**chatbot**) Update endpoint ruleset parameters casing
+* (**cloudformation**) Update endpoint ruleset parameters casing
+* (**cloudhsm**) Update endpoint ruleset parameters casing
+* (**cloudhsmv2**) Update endpoint ruleset parameters casing
+* (**codegurureviewer**) Update endpoint ruleset parameters casing
+* (**cognitoidentity**) Update endpoint ruleset parameters casing
+* (**comprehendmedical**) Update endpoint ruleset parameters casing
+* (**connect**) This release added support for email address alias configuration and outbound campaign preview mode.
+* (**connectcampaignsv2**) Updated Amazon Connect Outbound Campaigns V2 SDK to support Preview Outbound Mode
+* (**connectparticipant**) Update endpoint ruleset parameters casing
+* (**costexplorer**) Update endpoint ruleset parameters casing
+* (**devicefarm**) This release adds support for optionally including an app as part of a CreateRemoteAccessSession request
+* (**directconnect**) Update endpoint ruleset parameters casing
+* (**directoryservicedata**) Update endpoint ruleset parameters casing
+* (**ec2**) This release adds AvailabilityZoneId support for CreateNetworkInterface and DescribeNetworkInterfaces APIs.
+* (**ec2instanceconnect**) Update endpoint ruleset parameters casing
+* (**forecastquery**) Update endpoint ruleset parameters casing
+* (**iam**) Updated OIDC and SAML apis to reject multiple simultaneous requests to change a unique object.
+* (**inspector2**) Update endpoint ruleset parameters casing
+* (**iot**) Update endpoint ruleset parameters casing
+* (**iotanalytics**) Update endpoint ruleset parameters casing
+* (**iotfleetwise**) Update endpoint ruleset parameters casing
+* (**iotsecuretunneling**) Update endpoint ruleset parameters casing
+* (**iotsitewise**) Update endpoint ruleset parameters casing
+* (**ivschat**) Update endpoint ruleset parameters casing
+* (**kinesisanalyticsv2**) Update endpoint ruleset parameters casing
+* (**lexmodelsv2**) Update endpoint ruleset parameters casing
+* (**mailmanager**) Update endpoint ruleset parameters casing
+* (**marketplaceagreement**) Update endpoint ruleset parameters casing
+* (**medialive**) Add 3 API operations for fetching alerts: ListAlerts (Channels), ListClusterAlerts (MediaLive Anywhere), and ListMultiplexAlerts
+* (**mwaa**) Update endpoint ruleset parameters casing
+* (**notificationscontacts**) Update endpoint ruleset parameters casing
+* (**oam**) Update endpoint ruleset parameters casing
+* (**pcs**) Update endpoint ruleset parameters casing
+* (**pinpointsmsvoicev2**) Update endpoint ruleset parameters casing
+* (**redshiftdata**) Update endpoint ruleset parameters casing
+* (**route53**) Amazon Route 53 now supports the ISOB West Region for private DNS for Amazon VPCs and cloudwatch healthchecks.
+* (**route53recoverycluster**) Update endpoint ruleset parameters casing
+* (**rtbfabric**) Update for general availability of AWS RTB Fabric service.
+* (**sagemakera2iruntime**) Update endpoint ruleset parameters casing
+* (**sns**) Update endpoint ruleset parameters casing
+* (**ssmincidents**) Update endpoint ruleset parameters casing
+* (**workdocs**) Update endpoint ruleset parameters casing
+* (**workmail**) Update endpoint ruleset parameters casing
+* (**workspaces**) Update endpoint ruleset parameters casing
+
 ## [1.5.65] - 10/21/2025
 
 ### Features
