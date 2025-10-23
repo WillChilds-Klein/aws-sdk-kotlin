@@ -1,5 +1,61 @@
 # Changelog
 
+## [1.5.67] - 10/23/2025
+
+### Features
+* (**account**) Update endpoint ruleset parameters casing
+* (**applicationautoscaling**) Update endpoint ruleset parameters casing
+* (**applicationdiscoveryservice**) Update endpoint ruleset parameters casing
+* (**bedrockagentcore**) Fixing the service documentation name
+* (**bedrockagentcorecontrol**) Fixing the service documentation name
+* (**chimesdkvoice**) Update endpoint ruleset parameters casing
+* (**cloudtraildata**) Update endpoint ruleset parameters casing
+* (**codebuild**) Update endpoint ruleset parameters casing
+* (**codestarconnections**) Update endpoint ruleset parameters casing
+* (**configservice**) Update endpoint ruleset parameters casing
+* (**connectcontactlens**) Update endpoint ruleset parameters casing
+* (**costandusagereportservice**) Update endpoint ruleset parameters casing
+* (**databasemigrationservice**) Update endpoint ruleset parameters casing
+* (**docdbelastic**) Update endpoint ruleset parameters casing
+* (**drs**) Update endpoint ruleset parameters casing
+* (**dsql**) Add support for resource-based policies for Aurora DSQL clusters. This will enable you to implement Block Public Access (BPA) which will help restrict access to your Aurora DSQL public or VPC endpoints.
+* (**ebs**) Update endpoint ruleset parameters casing
+* (**ecr**) Update endpoint ruleset parameters casing
+* (**ecrpublic**) Update endpoint ruleset parameters casing
+* (**healthlake**) Update endpoint ruleset parameters casing
+* (**internetmonitor**) Update endpoint ruleset parameters casing
+* (**iotevents**) Update endpoint ruleset parameters casing
+* (**iotjobsdataplane**) Update endpoint ruleset parameters casing
+* (**kinesisvideoarchivedmedia**) Update endpoint ruleset parameters casing
+* (**kinesisvideowebrtcstorage**) Update endpoint ruleset parameters casing
+* (**lambda**) Add NodeJs 24 (nodejs24.x) support to AWS Lambda.
+* (**macie2**) Update endpoint ruleset parameters casing
+* (**managedblockchainquery**) Update endpoint ruleset parameters casing
+* (**marketplacecommerceanalytics**) Update endpoint ruleset parameters casing
+* (**mediatailor**) Update endpoint ruleset parameters casing
+* (**mgn**) Update endpoint ruleset parameters casing
+* (**migrationhub**) Update endpoint ruleset parameters casing
+* (**mpa**) Update endpoint ruleset parameters casing
+* (**neptunedata**) Update endpoint ruleset parameters casing
+* (**networkmonitor**) Update endpoint ruleset parameters casing
+* (**omics**) Update endpoint ruleset parameters casing
+* (**opensearchserverless**) Update endpoint ruleset parameters casing
+* (**pcaconnectorscep**) Update endpoint ruleset parameters casing
+* (**personalizeevents**) Update endpoint ruleset parameters casing
+* (**pinpointemail**) Update endpoint ruleset parameters casing
+* (**resiliencehub**) Update endpoint ruleset parameters casing
+* (**rum**) Update endpoint ruleset parameters casing
+* (**sagemaker**) Update endpoint ruleset parameters casing
+* (**sagemakeredge**) Update endpoint ruleset parameters casing
+* (**savingsplans**) Update endpoint ruleset parameters casing
+* (**securitylake**) Update endpoint ruleset parameters casing
+* (**sesv2**) Update endpoint ruleset parameters casing
+* (**storagegateway**) Update endpoint ruleset parameters casing
+* (**synthetics**) Update endpoint ruleset parameters casing
+
+### Documentation
+* (**odb**) Doc-only update that removes duplicate values from descriptions of ODB peering APIs.
+
 ## [1.5.66] - 10/22/2025
 
 ### Features
