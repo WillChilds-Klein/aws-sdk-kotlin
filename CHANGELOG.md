@@ -1,5 +1,63 @@
 # Changelog
 
+## [1.5.68] - 10/24/2025
+
+### Features
+* (**acm**) Update endpoint ruleset parameters casing
+* (**amplifyuibuilder**) Update endpoint ruleset parameters casing
+* (**applicationsignals**) Update endpoint ruleset parameters casing
+* (**billing**) Update endpoint ruleset parameters casing
+* (**budgets**) Update endpoint ruleset parameters casing
+* (**chimesdkmessaging**) Update endpoint ruleset parameters casing
+* (**cloudtrail**) Update endpoint ruleset parameters casing
+* (**codepipeline**) Update endpoint ruleset parameters casing
+* (**datapipeline**) Update endpoint ruleset parameters casing
+* (**datazone**) This release adds support for MLflow connections Creation in DataZone
+* (**docdb**) Update endpoint ruleset parameters casing
+* (**dynamodbstreams**) Update endpoint ruleset parameters casing
+* (**eks**) Update endpoint ruleset parameters casing
+* (**elasticloadbalancing**) Update endpoint ruleset parameters casing
+* (**evs**) Update endpoint ruleset parameters casing
+* (**fis**) Update endpoint ruleset parameters casing
+* (**gameliftstreams**) Add status reasons for TERMINATED stream sessions
+* (**geomaps**) Added support for optional AdditionalFeatures parameter in the V2 GetTile API.
+* (**inspector**) Update endpoint ruleset parameters casing
+* (**iotmanagedintegrations**) Update endpoint ruleset parameters casing
+* (**iotwireless**) Update endpoint ruleset parameters casing
+* (**kinesisanalytics**) Update endpoint ruleset parameters casing
+* (**kinesisvideosignaling**) Update endpoint ruleset parameters casing
+* (**location**) Added support for mobile app restrictions in Amazon Location API keys.
+* (**lookoutvision**) Update endpoint ruleset parameters casing
+* (**mediapackage**) Update endpoint ruleset parameters casing
+* (**mediastore**) Update endpoint ruleset parameters casing
+* (**mediastoredata**) Update endpoint ruleset parameters casing
+* (**migrationhubstrategy**) Update endpoint ruleset parameters casing
+* (**mq**) Update endpoint ruleset parameters casing
+* (**panorama**) Update endpoint ruleset parameters casing
+* (**paymentcryptography**) Update endpoint ruleset parameters casing
+* (**paymentcryptographydata**) Update endpoint ruleset parameters casing
+* (**pcaconnectorad**) Update endpoint ruleset parameters casing
+* (**qbusiness**) Update endpoint ruleset parameters casing
+* (**robomaker**) Update endpoint ruleset parameters casing
+* (**route53domains**) Update endpoint ruleset parameters casing
+* (**rtbfabric**) Add support for custom rate limits.
+* (**s3tables**) Update endpoint ruleset parameters casing
+* (**sagemaker**) Added inference components model data caching feature
+* (**sagemakermetrics**) Update endpoint ruleset parameters casing
+* (**securityhub**) Release 3 layer filter support in GetFindingsV2, GetFindingStatisticsV2, GetResourcesV2,GetResourcesStatisticsV2, AutomationRule V2 APIs. Update filter casing in GetResourcesV2, GetResourcesStatisticsV2 APIs. Add new filters in GetFindingsV2, GetFindingStatisticsV2, AutomationRule V2 APIs.
+* (**servicediscovery**) Update endpoint ruleset parameters casing
+* (**snowdevicemanagement**) Update endpoint ruleset parameters casing
+* (**ssooidc**) Update endpoint ruleset parameters casing
+* (**supplychain**) Update endpoint ruleset parameters casing
+* (**translate**) Update endpoint ruleset parameters casing
+* (**verifiedpermissions**) Update endpoint ruleset parameters casing
+* (**vpclattice**) Update endpoint ruleset parameters casing
+* (**wisdom**) Update endpoint ruleset parameters casing
+* (**workspacesthinclient**) Update endpoint ruleset parameters casing
+
+### Fixes
+* [#1717](https://github.com/aws/aws-sdk-kotlin/issues/1717) Correctly route applicationId to requests made by internal clients
+
 ## [1.5.67] - 10/23/2025
 
 ### Features
