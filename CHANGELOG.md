@@ -1,5 +1,59 @@
 # Changelog
 
+## [1.5.69] - 10/27/2025
+
+### Features
+* (**accessanalyzer**) Update endpoint ruleset parameters casing
+* (**aiops**) Update endpoint ruleset parameters casing
+* (**athena**) Update endpoint ruleset parameters casing
+* (**backupgateway**) Update endpoint ruleset parameters casing
+* (**bedrockdataautomation**) Update endpoint ruleset parameters casing
+* (**braket**) Update endpoint ruleset parameters casing
+* (**chimesdkidentity**) Update endpoint ruleset parameters casing
+* (**chimesdkmediapipelines**) Update endpoint ruleset parameters casing
+* (**codeartifact**) Update endpoint ruleset parameters casing
+* (**codeguruprofiler**) Update endpoint ruleset parameters casing
+* (**cognitoidentityprovider**) Update endpoint ruleset parameters casing
+* (**comprehend**) Update endpoint ruleset parameters casing
+* (**connectcampaigns**) Update endpoint ruleset parameters casing
+* (**controltower**) Update endpoint ruleset parameters casing
+* (**costexplorer**) Updated endpoint for eusc-de-east-1 region.
+* (**costoptimizationhub**) Update endpoint ruleset parameters casing
+* (**dax**) Update endpoint ruleset parameters casing
+* (**elasticbeanstalk**) Update endpoint ruleset parameters casing
+* (**entityresolution**) Update endpoint ruleset parameters casing
+* (**forecast**) Update endpoint ruleset parameters casing
+* (**greengrass**) Update endpoint ruleset parameters casing
+* (**iam**) Fixed missing SummaryMap keys in GetAccountSummary response that were being filtered out during deserialization in AWS Java SDK v2
+* (**invoicing**) Update endpoint ruleset parameters casing
+* (**kinesis**) Adds support for record sizes up to 10MiB and introduces new UpdateMaxRecordSize API to modify stream record size limits. Adds record size parameters to existing CreateStream and DescribeStreamSummary APIs for request and response payloads respectively.
+* (**launchwizard**) Update endpoint ruleset parameters casing
+* (**lexruntimeservice**) Update endpoint ruleset parameters casing
+* (**managedblockchain**) Update endpoint ruleset parameters casing
+* (**mturk**) Update endpoint ruleset parameters casing
+* (**neptunegraph**) Update endpoint ruleset parameters casing
+* (**outposts**) Update endpoint ruleset parameters casing
+* (**pinpoint**) Update endpoint ruleset parameters casing
+* (**rbin**) Update endpoint ruleset parameters casing
+* (**rdsdata**) Update endpoint ruleset parameters casing
+* (**redshiftserverless**) Update endpoint ruleset parameters casing
+* (**rekognition**) Update endpoint ruleset parameters casing
+* (**repostspace**) Update endpoint ruleset parameters casing
+* (**route53profiles**) Update endpoint ruleset parameters casing
+* (**route53resolver**) Update endpoint ruleset parameters casing
+* (**s3vectors**) Update endpoint ruleset parameters casing
+* (**scheduler**) Update endpoint ruleset parameters casing
+* (**secretsmanager**) Update endpoint ruleset parameters casing
+* (**ses**) Update endpoint ruleset parameters casing
+* (**sfn**) Update endpoint ruleset parameters casing
+* (**shield**) Update endpoint ruleset parameters casing
+* (**simspaceweaver**) Update endpoint ruleset parameters casing
+* (**socialmessaging**) Update endpoint ruleset parameters casing
+* (**ssmsap**) Update endpoint ruleset parameters casing
+* (**ssoadmin**) Update endpoint ruleset parameters casing
+* (**wafregional**) Update endpoint ruleset parameters casing
+* (**workmailmessageflow**) Update endpoint ruleset parameters casing
+
 ## [1.5.68] - 10/24/2025
 
 ### Features
