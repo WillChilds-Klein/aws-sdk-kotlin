@@ -1,5 +1,62 @@
 # Changelog
 
+## [1.5.70] - 10/28/2025
+
+### Features
+* (**apigatewayv2**) Update endpoint ruleset parameters casing
+* (**applicationsignals**) Added support for CloudWatch Synthetics Canary resources in ListAuditFindings API. This enhancement allows customers to retrieve audit findings specifically for CloudWatch Synthetics canaries and enables service-canary correlation analysis.
+* (**backupsearch**) Update endpoint ruleset parameters casing
+* (**bcmpricingcalculator**) Update endpoint ruleset parameters casing
+* (**bedrockagentruntime**) Update endpoint ruleset parameters casing
+* (**bedrockruntime**) Update endpoint ruleset parameters casing
+* (**cleanroomsml**) Update endpoint ruleset parameters casing
+* (**cloud9**) Update endpoint ruleset parameters casing
+* (**cloudsearchdomain**) Update endpoint ruleset parameters casing
+* (**cloudwatchevents**) Update endpoint ruleset parameters casing
+* (**codeconnections**) Update endpoint ruleset parameters casing
+* (**codegurusecurity**) Update endpoint ruleset parameters casing
+* (**detective**) Update endpoint ruleset parameters casing
+* (**ec2**) This released the DescribeCapacityReservationTopology API.
+* (**ecs**) Amazon ECS supports native linear and canary service deployments, allowing you to shift traffic in increments for more control.
+* (**efs**) Update endpoint ruleset parameters casing
+* (**elastictranscoder**) Update endpoint ruleset parameters casing
+* (**emrcontainers**) Update endpoint ruleset parameters casing
+* (**gameliftstreams**) Add stream group expiration date and expired status
+* (**glacier**) Update endpoint ruleset parameters casing
+* (**groundstation**) Enable use of AzEl ephemerides
+* (**inspectorscan**) Update endpoint ruleset parameters casing
+* (**kafkaconnect**) Update endpoint ruleset parameters casing
+* (**kendra**) Update endpoint ruleset parameters casing
+* (**kinesisvideo**) Update endpoint ruleset parameters casing
+* (**lambda**) Added SerializedRequestEntityTooLargeException to Lambda Invoke API
+* (**marketplacedeployment**) Update endpoint ruleset parameters casing
+* (**mediapackagevod**) Update endpoint ruleset parameters casing
+* (**migrationhuborchestrator**) Update endpoint ruleset parameters casing
+* (**notifications**) Update endpoint ruleset parameters casing
+* (**opensearch**) Update endpoint ruleset parameters casing
+* (**organizations**) Added Account State field to the ListDelegatedAdministrators API response.
+* (**partnercentralselling**) Update endpoint ruleset parameters casing
+* (**pipes**) Update endpoint ruleset parameters casing
+* (**ram**) Update endpoint ruleset parameters casing
+* (**resourcegroups**) Update endpoint ruleset parameters casing
+* (**s3**) Amazon Simple Storage Service / Features: Add conditional writes in CopyObject on destination key to prevent unintended object modifications.
+* (**s3control**) Update endpoint ruleset parameters casing
+* (**sagemaker**) Amazon SageMaker now supports deleting training and processing jobs in a terminal status.
+* (**sagemakerfeaturestoreruntime**) Update endpoint ruleset parameters casing
+* (**securityir**) Update endpoint ruleset parameters casing
+* (**servicecatalogappregistry**) Update endpoint ruleset parameters casing
+* (**sqs**) Update endpoint ruleset parameters casing
+* (**supportapp**) Update endpoint ruleset parameters casing
+* (**taxsettings**) Update endpoint ruleset parameters casing
+* (**transcribestreaming**) Update endpoint ruleset parameters casing
+* (**trustedadvisor**) Update endpoint ruleset parameters casing
+* (**workspaces**) Added IPv6 address support for WorkSpaces using Dual-Stack subnets
+* (**workspacesinstances**) Update endpoint ruleset parameters casing
+* (**xray**) Update endpoint ruleset parameters casing
+
+### Miscellaneous
+* Remove QLDB, QLDB Session, RoboMaker, LookoutMetrics, LookoutVision, IoTFleetHub, and AppTest services
+
 ## [1.5.69] - 10/27/2025
 
 ### Features
