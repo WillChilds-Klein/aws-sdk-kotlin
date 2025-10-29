@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.5.71] - 10/29/2025
+
+### Features
+* (**bedrockruntime**) Add support for system tool and web citation response.
+
 ## [1.5.70] - 10/28/2025
 
 ### Features
