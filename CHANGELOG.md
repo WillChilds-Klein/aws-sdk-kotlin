@@ -1,5 +1,61 @@
 # Changelog
 
+## [1.5.72] - 10/30/2025
+
+### Features
+* (**amp**) Add Anomaly Detection APIs for Amazon Managed Prometheus
+* (**apigateway**) Update endpoint ruleset parameters casing
+* (**appconfig**) Update endpoint ruleset parameters casing
+* (**appflow**) Update endpoint ruleset parameters casing
+* (**applicationcostprofiler**) Update endpoint ruleset parameters casing
+* (**appmesh**) Update endpoint ruleset parameters casing
+* (**appsync**) Update endpoint ruleset parameters casing
+* (**artifact**) Update endpoint ruleset parameters casing
+* (**auditmanager**) Update endpoint ruleset parameters casing
+* (**bedrockagent**) Update endpoint ruleset parameters casing
+* (**bedrockagentcorecontrol**) Web-Bot-Auth support for AgentCore Browser tool to help reduce captcha challenges.
+* (**chime**) Update endpoint ruleset parameters casing
+* (**cleanrooms**) Added support for advanced Spark configurations to optimize SQL performance
+* (**cloudcontrol**) Update endpoint ruleset parameters casing
+* (**clouddirectory**) Update endpoint ruleset parameters casing
+* (**cloudsearch**) Update endpoint ruleset parameters casing
+* (**cloudwatch**) Update endpoint ruleset parameters casing
+* (**codecatalyst**) Update endpoint ruleset parameters casing
+* (**codecommit**) Update endpoint ruleset parameters casing
+* (**codedeploy**) Update endpoint ruleset parameters casing
+* (**cognitosync**) Update endpoint ruleset parameters casing
+* (**computeoptimizer**) Update endpoint ruleset parameters casing
+* (**connectcases**) Update endpoint ruleset parameters casing
+* (**deadline**) Update endpoint ruleset parameters casing
+* (**devopsguru**) Update endpoint ruleset parameters casing
+* (**docdb**) Adding FailoverState and TagList to GlobalCluster and SynchronizationStatus to GlobalClusterMember.
+* (**ecs**) Amazon ECS Service Connect now supports Envoy access logs, providing deeper observability into request-level traffic patterns and service interactions.
+* (**eksauth**) Update endpoint ruleset parameters casing
+* (**elasticache**) Update endpoint ruleset parameters casing
+* (**emrserverless**) This release adds the capability to enable User Background Sessions for customers running Trusted Identity Propagation enabled Interactive Sessions on EMR Serverless Applications.
+* (**firehose**) Update endpoint ruleset parameters casing
+* (**frauddetector**) Update endpoint ruleset parameters casing
+* (**geoplaces**) Update endpoint ruleset parameters casing
+* (**glue**) This release adds the capability to enable User Background Sessions for customers running Trusted Identity Propagation enabled Interactive Sessions on AWS Glue.
+* (**greengrassv2**) Update endpoint ruleset parameters casing
+* (**ioteventsdata**) Update endpoint ruleset parameters casing
+* (**iotmanagedintegrations**) Add a new GetManagedThingCertificate API to expose Iot ManagedIntegrations (MI) device certificate, and add  "-"  support for name, properties, actions and events in the CapabilityReportCapability object.
+* (**keyspacesstreams**) Update endpoint ruleset parameters casing
+* (**kms**) Add cross account VPC endpoint service connectivity support to CustomKeyStore.
+* (**licensemanagerlinuxsubscriptions**) Update endpoint ruleset parameters casing
+* (**marketplacereporting**) Update endpoint ruleset parameters casing
+* (**neptune**) Update endpoint ruleset parameters casing
+* (**s3outposts**) Update endpoint ruleset parameters casing
+* (**sagemakerruntime**) Update endpoint ruleset parameters casing
+* (**schemas**) Update endpoint ruleset parameters casing
+* (**serverlessapplicationrepository**) Update endpoint ruleset parameters casing
+* (**servicecatalog**) Update endpoint ruleset parameters casing
+* (**sso**) Update endpoint ruleset parameters casing
+* (**sts**) Update endpoint ruleset parameters casing
+
+### Documentation
+* (**rtbfabric**) RTB Fabric documentation update.
+
 ## [1.5.71] - 10/29/2025
 
 ### Features
