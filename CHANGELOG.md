@@ -1,5 +1,30 @@
 # Changelog
 
+## [1.5.73] - 10/31/2025
+
+### Features
+* (**cloudwatchlogs**) Update endpoint ruleset parameters casing
+* (**connectcases**) Added two new case rule types: Parent Child Field Options (restricts child field options based on parent field value) and Hidden (controls child field visibility based on parent field value). Both enable dynamic field behavior within templates.
+* (**ec2**) Amazon VPC IP Address Manager (IPAM) now supports automated prefix list management, allowing you to create rules that automatically populate customer-managed prefix lists with CIDRs from your IPAM pools or AWS resources based on tags, Regions, or other criteria.
+* (**emr**) Update endpoint ruleset parameters casing
+* (**fms**) Update endpoint ruleset parameters casing
+* (**fsx**) Update endpoint ruleset parameters casing
+* (**health**) Update endpoint ruleset parameters casing
+* (**kinesis**) Update endpoint ruleset parameters casing
+* (**lambda**) Add Python3.14 (python3.14) and Java 25 (java25) support to AWS Lambda
+* (**marketplacecatalog**) Update endpoint ruleset parameters casing
+* (**mediaconvert**) Adds SlowPalPitchCorrection to audio pitch correction settings. Enables opacity for VideoOverlays. Adds REMUX_ALL option to enable multi-rendition passthrough to VideoSelector for allow listed accounts.
+* (**omics**) Added WDL_LENIENT engine type that enables implicit typecasting of variable values to its compatible declared types
+* (**paymentcryptography**) Allow additional characters in the CertificateSubject for GetCertificateSigningRequest API.
+* (**redshift**) Update endpoint ruleset parameters casing
+* (**resourcegroupstaggingapi**) Update endpoint ruleset parameters casing
+* (**sagemaker**) Allow update of platform identifier via UpdateNotebookInstance operation.
+* (**savingsplans**) Add dual-stack endpoint support for Savings Plans
+* (**snowball**) Update endpoint ruleset parameters casing
+* (**ssmquicksetup**) Update endpoint ruleset parameters casing
+* (**textract**) Update endpoint ruleset parameters casing
+* (**waf**) Update endpoint ruleset parameters casing
+
 ## [1.5.72] - 10/30/2025
 
 ### Features
