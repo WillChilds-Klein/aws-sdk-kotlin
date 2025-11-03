@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.5.74] - 11/03/2025
+
+### Features
+* (**bedrockagentcorecontrol**) Adds support for direct code deploy with CreateAgentRuntime and UpdateAgentRuntime
+* (**budgets**) Fix the AWS Budgets endpoint for the aws-eusc partition.
+* (**ec2**) Add Amazon EC2 trn2.3xlarge instance type.
+* (**kinesis**) Adds support for MinimumThroughputBillingCommitment with new UpdateAccountSettings API. Adds support to configure warm throughput for on-demand streams in new UpdateStreamWarmThroughput API and existing CreateStream API and UpdateStreamMode API.
+* Enable configuring an HTTP engine on `ImdsClient`
+
+### Documentation
+* (**ecs**) Documentation-only update for LINEAR and CANARY deployment strategies.
+
 ## [1.5.73] - 10/31/2025
 
 ### Features
